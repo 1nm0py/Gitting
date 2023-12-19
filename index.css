@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    width: 1200px;
+    margin: auto;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-around;
+    text-align: center  ;
+}
+.list{
+    list-style: none;
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+}
+.dad:hover{
+    color: blue;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section{
+    height: 600px;
+    background: url(./img/i.webp);
+    background-size: cover;
+}
+.slayt{
+    height: 250px;
+    width: 250px;
+}
+.mini{
+    display: flex;
+    justify-content: center;
+}
+.p{
+    text-align: center;
+}
+.worker{
+    border: 5px solid blueviolet;
+    height: 450px;
+    width: 400px;
+}
+img{
+    width: 100%;
+}
