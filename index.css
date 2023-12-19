@@ -36,7 +36,7 @@ h1{
 }
 .mini{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 .p{
     text-align: center;
